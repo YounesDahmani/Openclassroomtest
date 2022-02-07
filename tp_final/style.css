@@ -327,4 +327,32 @@ footer h1
     {
         display: none;
     }
+
+    section 
+    {
+        flex-direction: column;
+    }
+
+    article, aside
+    {
+        width: auto;
+        margin-bottom: 15px;
+    }
+
+    #fleche_bulle
+    {
+        display: none;
+    }
+
+    #photo_zozor img 
+    {
+        width: 110px;
+        float: right;
+        margin-left: 15px;
+    }
+
+    aside p:last-child
+    {
+        text-align: center;
+    }
 }
