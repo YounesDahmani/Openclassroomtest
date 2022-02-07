@@ -322,4 +322,9 @@ footer h1
     {
         border-bottom: 0;
     }
+
+    #banniere_image
+    {
+        display: none;
+    }
 }
